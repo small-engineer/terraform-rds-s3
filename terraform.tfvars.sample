@@ -1,0 +1,7 @@
+project_name       = "sample"
+environment        = "dev"
+db_name            = "sampledb"
+db_username        = "sampledmin"
+db_password        = "securepassword"
+db_access_cidrs = ["114.51.419.810/32"]
+aws_region   = "ap-northeast-1"
